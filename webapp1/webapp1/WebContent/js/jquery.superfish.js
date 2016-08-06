@@ -119,3 +119,8 @@
 	});
 
 })(jQuery);
+
+function contactSubmit(){
+	alert("THANKS!");
+	location.href="../index.php.htm";
+}
